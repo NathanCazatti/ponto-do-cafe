@@ -1,0 +1,13 @@
+{
+  "name": "ponto-do-cafe",
+  "version": "1.0.0",
+  "description": "Sistema de cadastro de clientes - Cafeteria Ponto do Cafe",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.0.0",
+    "express": "^4.19.2"
+  }
+}
